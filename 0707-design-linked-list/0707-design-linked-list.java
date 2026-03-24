@@ -1,9 +1,11 @@
 class MyLinkedList {
     class Node{
         int val;
+        Node prev;
         Node next;
         Node(int val){
             this.val=val;
+            prev=null;
             next=null;
         }
     }
@@ -29,6 +31,7 @@ class MyLinkedList {
             tail=nn;
         }else{
             nn.next=head;
+            head.prev=nn;
             head=nn;
         }
         cnt+=1;
@@ -39,7 +42,9 @@ class MyLinkedList {
             head=nn;
             tail=nn;
         }else{
+            nn.prev=tail;
             tail.next=nn;
+
             tail=nn;
         }
         cnt+=1;
@@ -53,13 +58,15 @@ class MyLinkedList {
         }else if(index==cnt){
             addAtTail(val);
         }else{
-            Node nn=new Node(val);
             Node temp=head;
             for(int i=0;i<index-1;i++){
                 temp=temp.next;
             }
+            Node nn=new Node(val);
+            nn.prev=temp;
             nn.next=temp.next;
             temp.next=nn;
+            nn.next.prev=nn;
             cnt+=1;
         }
     }
@@ -71,16 +78,26 @@ class MyLinkedList {
             head=head.next;
             if(head==null)
                 tail=null;
+            else
+                head.prev=null;
             cnt-=1;
-        }else{
+        }else if(index==cnt-1){
+            tail=tail.prev;
+            if(tail==null){
+                head=null;
+            }else{
+                tail.next=null;
+            }
+            cnt-=1;
+        }
+        else{
             Node temp=head;
             for(int i=0;i<index-1;i++){
                 temp=temp.next;
             }
             temp.next=temp.next.next;
+            temp.next.prev=temp;
             cnt-=1;
-            if(temp.next==null)
-                tail=temp;
         }
     }
 }
@@ -92,4 +109,4 @@ class MyLinkedList {
  * obj.addAtTail(val);
  * obj.addAtIndex(index,val);
  * obj.deleteAtIndex(index);
- */
+ */                         
