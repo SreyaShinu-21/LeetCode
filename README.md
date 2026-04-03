@@ -48,6 +48,7 @@
 | [0141-linked-list-cycle](https://github.com/SreyaShinu-21/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/SreyaShinu-21/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/SreyaShinu-21/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/SreyaShinu-21/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/SreyaShinu-21/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -71,6 +72,7 @@
 | [0053-maximum-subarray](https://github.com/SreyaShinu-21/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SreyaShinu-21/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/SreyaShinu-21/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0283-move-zeroes](https://github.com/SreyaShinu-21/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/SreyaShinu-21/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1472-design-browser-history](https://github.com/SreyaShinu-21/LeetCode/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SreyaShinu-21/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
