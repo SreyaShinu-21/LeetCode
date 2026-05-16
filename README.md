@@ -65,6 +65,7 @@
 | [0234-palindrome-linked-list](https://github.com/SreyaShinu-21/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/SreyaShinu-21/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/SreyaShinu-21/LeetCode/tree/main/0344-reverse-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/SreyaShinu-21/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/SreyaShinu-21/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -80,6 +81,7 @@
 | [0205-isomorphic-strings](https://github.com/SreyaShinu-21/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/SreyaShinu-21/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/SreyaShinu-21/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/SreyaShinu-21/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/SreyaShinu-21/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/SreyaShinu-21/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Recursion
@@ -105,6 +107,7 @@
 | [0217-contains-duplicate](https://github.com/SreyaShinu-21/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/SreyaShinu-21/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/SreyaShinu-21/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/SreyaShinu-21/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/SreyaShinu-21/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/SreyaShinu-21/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -155,6 +158,7 @@
 | [0169-majority-element](https://github.com/SreyaShinu-21/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/SreyaShinu-21/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/SreyaShinu-21/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/SreyaShinu-21/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/SreyaShinu-21/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -218,4 +222,8 @@
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/SreyaShinu-21/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/SreyaShinu-21/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/SreyaShinu-21/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 <!---LeetCode Topics End-->
