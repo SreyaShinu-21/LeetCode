@@ -61,6 +61,7 @@
 | [0125-valid-palindrome](https://github.com/SreyaShinu-21/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/SreyaShinu-21/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/SreyaShinu-21/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0202-happy-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/SreyaShinu-21/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/SreyaShinu-21/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/SreyaShinu-21/LeetCode/tree/main/0344-reverse-string/) | Easy |
@@ -75,6 +76,7 @@
 | [0141-linked-list-cycle](https://github.com/SreyaShinu-21/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/SreyaShinu-21/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/SreyaShinu-21/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/SreyaShinu-21/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/SreyaShinu-21/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/SreyaShinu-21/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -144,6 +146,7 @@
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/SreyaShinu-21/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/SreyaShinu-21/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0202-happy-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/SreyaShinu-21/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
