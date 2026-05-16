@@ -9,6 +9,7 @@
 | [0225-implement-stack-using-queues](https://github.com/SreyaShinu-21/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/SreyaShinu-21/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/SreyaShinu-21/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0739-daily-temperatures](https://github.com/SreyaShinu-21/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [1472-design-browser-history](https://github.com/SreyaShinu-21/LeetCode/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SreyaShinu-21/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Design
@@ -103,6 +104,7 @@
 | [0414-third-maximum-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/SreyaShinu-21/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0724-find-pivot-index](https://github.com/SreyaShinu-21/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
+| [0739-daily-temperatures](https://github.com/SreyaShinu-21/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1472-design-browser-history](https://github.com/SreyaShinu-21/LeetCode/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SreyaShinu-21/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -205,4 +207,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SreyaShinu-21/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/SreyaShinu-21/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
