@@ -160,6 +160,7 @@
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/SreyaShinu-21/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/SreyaShinu-21/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0070-climbing-stairs](https://github.com/SreyaShinu-21/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/SreyaShinu-21/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -207,6 +208,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/SreyaShinu-21/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/SreyaShinu-21/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/SreyaShinu-21/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SreyaShinu-21/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Counting
@@ -258,5 +260,6 @@
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/SreyaShinu-21/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
