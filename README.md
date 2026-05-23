@@ -106,6 +106,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0051-n-queens](https://github.com/SreyaShinu-21/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/SreyaShinu-21/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0078-subsets](https://github.com/SreyaShinu-21/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SreyaShinu-21/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -186,6 +187,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/SreyaShinu-21/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/SreyaShinu-21/LeetCode/tree/main/0051-n-queens/) | Hard |
+| [0078-subsets](https://github.com/SreyaShinu-21/LeetCode/tree/main/0078-subsets/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,6 +233,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/SreyaShinu-21/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0078-subsets](https://github.com/SreyaShinu-21/LeetCode/tree/main/0078-subsets/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
