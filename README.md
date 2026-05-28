@@ -271,6 +271,7 @@
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/SreyaShinu-21/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SreyaShinu-21/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0278-first-bad-version](https://github.com/SreyaShinu-21/LeetCode/tree/main/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/SreyaShinu-21/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/SreyaShinu-21/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/SreyaShinu-21/LeetCode/tree/main/0704-binary-search/) | Easy |
@@ -315,5 +316,6 @@
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0278-first-bad-version](https://github.com/SreyaShinu-21/LeetCode/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/SreyaShinu-21/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
