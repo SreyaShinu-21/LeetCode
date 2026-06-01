@@ -126,6 +126,7 @@
 | [0217-contains-duplicate](https://github.com/SreyaShinu-21/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/SreyaShinu-21/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/SreyaShinu-21/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/SreyaShinu-21/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/SreyaShinu-21/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/SreyaShinu-21/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -246,6 +247,7 @@
 | [0070-climbing-stairs](https://github.com/SreyaShinu-21/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SreyaShinu-21/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/SreyaShinu-21/LeetCode/tree/main/0198-house-robber/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/SreyaShinu-21/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
@@ -287,6 +289,7 @@
 | [0162-find-peak-element](https://github.com/SreyaShinu-21/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SreyaShinu-21/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0278-first-bad-version](https://github.com/SreyaShinu-21/LeetCode/tree/main/0278-first-bad-version/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/SreyaShinu-21/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/SreyaShinu-21/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/SreyaShinu-21/LeetCode/tree/main/0704-binary-search/) | Easy |
