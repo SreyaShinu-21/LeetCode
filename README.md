@@ -238,6 +238,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/SreyaShinu-21/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0649-dota2-senate](https://github.com/SreyaShinu-21/LeetCode/tree/main/0649-dota2-senate/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -251,6 +252,7 @@
 | [0322-coin-change](https://github.com/SreyaShinu-21/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
