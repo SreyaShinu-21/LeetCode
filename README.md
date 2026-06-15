@@ -443,6 +443,7 @@
 | [1068-product-sales-analysis-i](https://github.com/SreyaShinu-21/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1070-product-sales-analysis-iii](https://github.com/SreyaShinu-21/LeetCode/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1075-project-employees-i](https://github.com/SreyaShinu-21/LeetCode/tree/main/1075-project-employees-i/) | Easy |
+| [1084-sales-analysis-iii](https://github.com/SreyaShinu-21/LeetCode/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1148-article-views-i](https://github.com/SreyaShinu-21/LeetCode/tree/main/1148-article-views-i/) | Easy |
 | [1321-restaurant-growth](https://github.com/SreyaShinu-21/LeetCode/tree/main/1321-restaurant-growth/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/SreyaShinu-21/LeetCode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
