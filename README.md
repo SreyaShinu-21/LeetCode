@@ -441,6 +441,7 @@
 | [0627-swap-sex-of-employees](https://github.com/SreyaShinu-21/LeetCode/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/SreyaShinu-21/LeetCode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/SreyaShinu-21/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1070-product-sales-analysis-iii](https://github.com/SreyaShinu-21/LeetCode/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1148-article-views-i](https://github.com/SreyaShinu-21/LeetCode/tree/main/1148-article-views-i/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/SreyaShinu-21/LeetCode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/SreyaShinu-21/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
