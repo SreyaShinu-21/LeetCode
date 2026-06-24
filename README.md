@@ -463,6 +463,7 @@
 | [1729-find-followers-count](https://github.com/SreyaShinu-21/LeetCode/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/SreyaShinu-21/LeetCode/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/SreyaShinu-21/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [1789-primary-department-for-each-employee](https://github.com/SreyaShinu-21/LeetCode/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1934-confirmation-rate](https://github.com/SreyaShinu-21/LeetCode/tree/main/1934-confirmation-rate/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/SreyaShinu-21/LeetCode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/SreyaShinu-21/LeetCode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
