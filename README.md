@@ -209,6 +209,7 @@
 | [0048-rotate-image](https://github.com/SreyaShinu-21/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/SreyaShinu-21/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0067-add-binary](https://github.com/SreyaShinu-21/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/SreyaShinu-21/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/SreyaShinu-21/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -329,6 +330,7 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/SreyaShinu-21/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/SreyaShinu-21/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0162-find-peak-element](https://github.com/SreyaShinu-21/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SreyaShinu-21/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -473,4 +475,8 @@
 | [1934-confirmation-rate](https://github.com/SreyaShinu-21/LeetCode/tree/main/1934-confirmation-rate/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/SreyaShinu-21/LeetCode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/SreyaShinu-21/LeetCode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/SreyaShinu-21/LeetCode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
