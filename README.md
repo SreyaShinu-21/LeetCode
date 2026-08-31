@@ -151,6 +151,7 @@
 | [0518-coin-change-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/SreyaShinu-21/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/SreyaShinu-21/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/SreyaShinu-21/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/SreyaShinu-21/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/SreyaShinu-21/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
@@ -286,6 +287,7 @@
 | [0322-coin-change](https://github.com/SreyaShinu-21/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SreyaShinu-21/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Counting
@@ -479,4 +481,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/SreyaShinu-21/LeetCode/tree/main/0069-sqrtx/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
