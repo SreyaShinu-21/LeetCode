@@ -267,6 +267,7 @@
 | [0344-reverse-string](https://github.com/SreyaShinu-21/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/SreyaShinu-21/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/SreyaShinu-21/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0649-dota2-senate](https://github.com/SreyaShinu-21/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -286,6 +287,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/SreyaShinu-21/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
