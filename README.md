@@ -261,6 +261,7 @@
 | [0038-count-and-say](https://github.com/SreyaShinu-21/LeetCode/tree/main/0038-count-and-say/) | Medium |
 | [0058-length-of-last-word](https://github.com/SreyaShinu-21/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/SreyaShinu-21/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0072-edit-distance](https://github.com/SreyaShinu-21/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0125-valid-palindrome](https://github.com/SreyaShinu-21/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/SreyaShinu-21/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/SreyaShinu-21/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -282,6 +283,7 @@
 | [0062-unique-paths](https://github.com/SreyaShinu-21/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/SreyaShinu-21/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/SreyaShinu-21/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/SreyaShinu-21/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SreyaShinu-21/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/SreyaShinu-21/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
