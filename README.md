@@ -273,6 +273,7 @@
 | [0039-combination-sum](https://github.com/SreyaShinu-21/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/SreyaShinu-21/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/SreyaShinu-21/LeetCode/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/SreyaShinu-21/LeetCode/tree/main/0078-subsets/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -539,6 +540,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/SreyaShinu-21/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
+| [0052-n-queens-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0052-n-queens-ii/) | Hard |
 ## Dancing Links
 | Problem Name | Difficulty |
 | ------- | ------- |
