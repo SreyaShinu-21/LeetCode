@@ -171,6 +171,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SreyaShinu-21/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/SreyaShinu-21/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/SreyaShinu-21/LeetCode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/SreyaShinu-21/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -225,6 +226,7 @@
 | [0412-fizz-buzz](https://github.com/SreyaShinu-21/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/SreyaShinu-21/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/SreyaShinu-21/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
