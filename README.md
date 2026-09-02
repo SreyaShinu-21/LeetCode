@@ -279,6 +279,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SreyaShinu-21/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/SreyaShinu-21/LeetCode/tree/main/0038-count-and-say/) | Medium |
 | [0058-length-of-last-word](https://github.com/SreyaShinu-21/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
+| [0065-valid-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/SreyaShinu-21/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0072-edit-distance](https://github.com/SreyaShinu-21/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0125-valid-palindrome](https://github.com/SreyaShinu-21/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
