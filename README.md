@@ -90,6 +90,7 @@
 | [0037-sudoku-solver](https://github.com/SreyaShinu-21/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/SreyaShinu-21/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0140-word-break-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 | [0141-linked-list-cycle](https://github.com/SreyaShinu-21/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/SreyaShinu-21/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/SreyaShinu-21/LeetCode/tree/main/0169-majority-element/) | Easy |
@@ -147,6 +148,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SreyaShinu-21/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0140-word-break-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/SreyaShinu-21/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SreyaShinu-21/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -288,6 +290,7 @@
 | [0051-n-queens](https://github.com/SreyaShinu-21/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/SreyaShinu-21/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0140-word-break-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -304,6 +307,7 @@
 | [0067-add-binary](https://github.com/SreyaShinu-21/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0072-edit-distance](https://github.com/SreyaShinu-21/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0125-valid-palindrome](https://github.com/SreyaShinu-21/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0140-word-break-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 | [0205-isomorphic-strings](https://github.com/SreyaShinu-21/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/SreyaShinu-21/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/SreyaShinu-21/LeetCode/tree/main/0344-reverse-string/) | Easy |
@@ -331,6 +335,7 @@
 | [0118-pascals-triangle](https://github.com/SreyaShinu-21/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SreyaShinu-21/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SreyaShinu-21/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0140-word-break-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 | [0198-house-robber](https://github.com/SreyaShinu-21/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0233-number-of-digit-one](https://github.com/SreyaShinu-21/LeetCode/tree/main/0233-number-of-digit-one/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -363,6 +368,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/SreyaShinu-21/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0140-word-break-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -421,6 +427,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/SreyaShinu-21/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0140-word-break-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 | [0509-fibonacci-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
