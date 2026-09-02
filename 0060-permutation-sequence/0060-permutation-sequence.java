@@ -1,11 +1,11 @@
 class Solution {
     public String getPermutation(int n, int k) {
-        String s = "";
-        for (int i = 1; i <= n; i++) {
-            s += i;
+        String s="";
+        for (int i=1;i<=n;i++){
+            s+=i;
         }
-        for (int i = 1; i < k; i++) {
-            s = next(s);
+        for(int i=1;i<k;i++){
+            s=next(s);
         }
         return s;
     }
