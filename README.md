@@ -111,6 +111,7 @@
 | [0203-remove-linked-list-elements](https://github.com/SreyaShinu-21/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/SreyaShinu-21/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/SreyaShinu-21/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0233-number-of-digit-one](https://github.com/SreyaShinu-21/LeetCode/tree/main/0233-number-of-digit-one/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/SreyaShinu-21/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0342-power-of-four](https://github.com/SreyaShinu-21/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
@@ -226,6 +227,7 @@
 | [0070-climbing-stairs](https://github.com/SreyaShinu-21/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/SreyaShinu-21/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0233-number-of-digit-one](https://github.com/SreyaShinu-21/LeetCode/tree/main/0233-number-of-digit-one/) | Hard |
 | [0258-add-digits](https://github.com/SreyaShinu-21/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0319-bulb-switcher](https://github.com/SreyaShinu-21/LeetCode/tree/main/0319-bulb-switcher/) | Medium |
@@ -307,6 +309,7 @@
 | [0118-pascals-triangle](https://github.com/SreyaShinu-21/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SreyaShinu-21/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/SreyaShinu-21/LeetCode/tree/main/0198-house-robber/) | Medium |
+| [0233-number-of-digit-one](https://github.com/SreyaShinu-21/LeetCode/tree/main/0233-number-of-digit-one/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/SreyaShinu-21/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
