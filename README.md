@@ -177,6 +177,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/SreyaShinu-21/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/SreyaShinu-21/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/SreyaShinu-21/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/SreyaShinu-21/LeetCode/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0946-validate-stack-sequences](https://github.com/SreyaShinu-21/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/SreyaShinu-21/LeetCode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -346,6 +347,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/SreyaShinu-21/LeetCode/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SreyaShinu-21/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Counting
