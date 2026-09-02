@@ -242,6 +242,7 @@
 | [0319-bulb-switcher](https://github.com/SreyaShinu-21/LeetCode/tree/main/0319-bulb-switcher/) | Medium |
 | [0342-power-of-four](https://github.com/SreyaShinu-21/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/SreyaShinu-21/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/SreyaShinu-21/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0483-smallest-good-base](https://github.com/SreyaShinu-21/LeetCode/tree/main/0483-smallest-good-base/) | Hard |
 | [0509-fibonacci-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/SreyaShinu-21/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -268,6 +269,7 @@
 | [0067-add-binary](https://github.com/SreyaShinu-21/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/SreyaShinu-21/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/SreyaShinu-21/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/SreyaShinu-21/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/SreyaShinu-21/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/SreyaShinu-21/LeetCode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SreyaShinu-21/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -303,6 +305,7 @@
 | [0344-reverse-string](https://github.com/SreyaShinu-21/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/SreyaShinu-21/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/SreyaShinu-21/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/SreyaShinu-21/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0649-dota2-senate](https://github.com/SreyaShinu-21/LeetCode/tree/main/0649-dota2-senate/) | Medium |
