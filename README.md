@@ -225,6 +225,7 @@
 | [0070-climbing-stairs](https://github.com/SreyaShinu-21/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/SreyaShinu-21/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/SreyaShinu-21/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0319-bulb-switcher](https://github.com/SreyaShinu-21/LeetCode/tree/main/0319-bulb-switcher/) | Medium |
 | [0412-fizz-buzz](https://github.com/SreyaShinu-21/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
@@ -251,6 +252,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/SreyaShinu-21/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/SreyaShinu-21/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0258-add-digits](https://github.com/SreyaShinu-21/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/SreyaShinu-21/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/SreyaShinu-21/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/SreyaShinu-21/LeetCode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
@@ -515,4 +517,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/SreyaShinu-21/LeetCode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
