@@ -202,6 +202,7 @@
 | [2428-maximum-sum-of-an-hourglass](https://github.com/SreyaShinu-21/LeetCode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/SreyaShinu-21/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3912-valid-elements-in-an-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/3912-valid-elements-in-an-array/) | Easy |
 | [3978-unique-middle-element](https://github.com/SreyaShinu-21/LeetCode/tree/main/3978-unique-middle-element/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
