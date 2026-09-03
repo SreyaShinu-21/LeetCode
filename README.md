@@ -68,6 +68,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SreyaShinu-21/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/SreyaShinu-21/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/SreyaShinu-21/LeetCode/tree/main/0061-rotate-list/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/SreyaShinu-21/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/SreyaShinu-21/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -146,6 +147,7 @@
 | [0066-plus-one](https://github.com/SreyaShinu-21/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/SreyaShinu-21/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/SreyaShinu-21/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/SreyaShinu-21/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SreyaShinu-21/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
