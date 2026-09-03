@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SreyaShinu-21/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/SreyaShinu-21/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0094-binary-tree-inorder-traversal](https://github.com/SreyaShinu-21/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0143-reorder-list](https://github.com/SreyaShinu-21/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0155-min-stack](https://github.com/SreyaShinu-21/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/SreyaShinu-21/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
@@ -223,6 +224,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SreyaShinu-21/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/SreyaShinu-21/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SreyaShinu-21/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/SreyaShinu-21/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
@@ -441,6 +443,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SreyaShinu-21/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SreyaShinu-21/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/SreyaShinu-21/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SreyaShinu-21/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -449,6 +452,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SreyaShinu-21/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SreyaShinu-21/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/SreyaShinu-21/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SreyaShinu-21/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
