@@ -75,6 +75,7 @@
 | [0143-reorder-list](https://github.com/SreyaShinu-21/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/SreyaShinu-21/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SreyaShinu-21/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/SreyaShinu-21/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/SreyaShinu-21/LeetCode/tree/main/0283-move-zeroes/) | Easy |
@@ -161,6 +162,7 @@
 | [0162-find-peak-element](https://github.com/SreyaShinu-21/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SreyaShinu-21/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/SreyaShinu-21/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/SreyaShinu-21/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/SreyaShinu-21/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -259,6 +261,7 @@
 | [0067-add-binary](https://github.com/SreyaShinu-21/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/SreyaShinu-21/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/SreyaShinu-21/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0189-rotate-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/SreyaShinu-21/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0233-number-of-digit-one](https://github.com/SreyaShinu-21/LeetCode/tree/main/0233-number-of-digit-one/) | Hard |
