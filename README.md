@@ -90,6 +90,7 @@
 | [0013-roman-to-integer](https://github.com/SreyaShinu-21/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0037-sudoku-solver](https://github.com/SreyaShinu-21/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/SreyaShinu-21/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
+| [0073-set-matrix-zeroes](https://github.com/SreyaShinu-21/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0140-word-break-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 | [0141-linked-list-cycle](https://github.com/SreyaShinu-21/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -143,6 +144,7 @@
 | [0055-jump-game](https://github.com/SreyaShinu-21/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0064-minimum-path-sum](https://github.com/SreyaShinu-21/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/SreyaShinu-21/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/SreyaShinu-21/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/SreyaShinu-21/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/SreyaShinu-21/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
@@ -486,6 +488,7 @@
 | [0048-rotate-image](https://github.com/SreyaShinu-21/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/SreyaShinu-21/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0064-minimum-path-sum](https://github.com/SreyaShinu-21/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/SreyaShinu-21/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0200-number-of-islands](https://github.com/SreyaShinu-21/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/SreyaShinu-21/LeetCode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Combinatorics
