@@ -231,6 +231,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SreyaShinu-21/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SreyaShinu-21/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/SreyaShinu-21/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SreyaShinu-21/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/SreyaShinu-21/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
@@ -453,6 +454,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SreyaShinu-21/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SreyaShinu-21/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SreyaShinu-21/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/SreyaShinu-21/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SreyaShinu-21/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/SreyaShinu-21/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
@@ -462,6 +464,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SreyaShinu-21/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SreyaShinu-21/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SreyaShinu-21/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/SreyaShinu-21/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SreyaShinu-21/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/SreyaShinu-21/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
@@ -470,6 +473,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SreyaShinu-21/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SreyaShinu-21/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/SreyaShinu-21/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/SreyaShinu-21/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0322-coin-change](https://github.com/SreyaShinu-21/LeetCode/tree/main/0322-coin-change/) | Medium |
