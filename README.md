@@ -135,6 +135,7 @@
 | [0014-longest-common-prefix](https://github.com/SreyaShinu-21/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/SreyaShinu-21/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0037-sudoku-solver](https://github.com/SreyaShinu-21/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/SreyaShinu-21/LeetCode/tree/main/0039-combination-sum/) | Medium |
@@ -424,6 +425,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SreyaShinu-21/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/SreyaShinu-21/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/SreyaShinu-21/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
