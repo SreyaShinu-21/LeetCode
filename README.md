@@ -190,6 +190,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/SreyaShinu-21/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/SreyaShinu-21/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/SreyaShinu-21/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/SreyaShinu-21/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/SreyaShinu-21/LeetCode/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0867-transpose-matrix](https://github.com/SreyaShinu-21/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/SreyaShinu-21/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
@@ -294,6 +295,7 @@
 | [0414-third-maximum-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/SreyaShinu-21/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/SreyaShinu-21/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/SreyaShinu-21/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/SreyaShinu-21/LeetCode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Simulation
