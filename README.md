@@ -86,6 +86,7 @@
 | [0680-valid-palindrome-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/SreyaShinu-21/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1089-duplicate-zeros](https://github.com/SreyaShinu-21/LeetCode/tree/main/1089-duplicate-zeros/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,6 +201,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/SreyaShinu-21/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/SreyaShinu-21/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1046-last-stone-weight](https://github.com/SreyaShinu-21/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
+| [1089-duplicate-zeros](https://github.com/SreyaShinu-21/LeetCode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1472-design-browser-history](https://github.com/SreyaShinu-21/LeetCode/tree/main/1472-design-browser-history/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SreyaShinu-21/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
