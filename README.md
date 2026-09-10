@@ -8,6 +8,7 @@
 | [0042-trapping-rain-water](https://github.com/SreyaShinu-21/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/SreyaShinu-21/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0143-reorder-list](https://github.com/SreyaShinu-21/LeetCode/tree/main/0143-reorder-list/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/SreyaShinu-21/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/SreyaShinu-21/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/SreyaShinu-21/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/SreyaShinu-21/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -255,6 +256,7 @@
 | [0110-balanced-binary-tree](https://github.com/SreyaShinu-21/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SreyaShinu-21/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/SreyaShinu-21/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/SreyaShinu-21/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/SreyaShinu-21/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/SreyaShinu-21/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/SreyaShinu-21/LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
@@ -495,6 +497,7 @@
 | [0110-balanced-binary-tree](https://github.com/SreyaShinu-21/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SreyaShinu-21/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/SreyaShinu-21/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/SreyaShinu-21/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/SreyaShinu-21/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -506,6 +509,7 @@
 | [0110-balanced-binary-tree](https://github.com/SreyaShinu-21/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SreyaShinu-21/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/SreyaShinu-21/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/SreyaShinu-21/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/SreyaShinu-21/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
