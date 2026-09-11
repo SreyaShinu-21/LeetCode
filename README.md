@@ -113,6 +113,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/SreyaShinu-21/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/SreyaShinu-21/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/SreyaShinu-21/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +130,7 @@
 | [0234-palindrome-linked-list](https://github.com/SreyaShinu-21/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0342-power-of-four](https://github.com/SreyaShinu-21/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/SreyaShinu-21/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +214,7 @@
 | [2057-smallest-index-with-equal-value](https://github.com/SreyaShinu-21/LeetCode/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/SreyaShinu-21/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/SreyaShinu-21/LeetCode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/SreyaShinu-21/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/SreyaShinu-21/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3912-valid-elements-in-an-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/3912-valid-elements-in-an-array/) | Easy |
@@ -680,4 +683,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0474-ones-and-zeroes](https://github.com/SreyaShinu-21/LeetCode/tree/main/0474-ones-and-zeroes/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/SreyaShinu-21/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
