@@ -286,6 +286,7 @@
 | [0342-power-of-four](https://github.com/SreyaShinu-21/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/SreyaShinu-21/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/SreyaShinu-21/LeetCode/tree/main/0415-add-strings/) | Easy |
+| [0441-arranging-coins](https://github.com/SreyaShinu-21/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [0483-smallest-good-base](https://github.com/SreyaShinu-21/LeetCode/tree/main/0483-smallest-good-base/) | Hard |
 | [0509-fibonacci-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/SreyaShinu-21/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -459,6 +460,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/SreyaShinu-21/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/SreyaShinu-21/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/SreyaShinu-21/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0441-arranging-coins](https://github.com/SreyaShinu-21/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [0483-smallest-good-base](https://github.com/SreyaShinu-21/LeetCode/tree/main/0483-smallest-good-base/) | Hard |
 | [0704-binary-search](https://github.com/SreyaShinu-21/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/SreyaShinu-21/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
