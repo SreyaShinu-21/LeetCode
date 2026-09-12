@@ -213,6 +213,7 @@
 | [1470-shuffle-the-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1472-design-browser-history](https://github.com/SreyaShinu-21/LeetCode/tree/main/1472-design-browser-history/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SreyaShinu-21/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SreyaShinu-21/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2057-smallest-index-with-equal-value](https://github.com/SreyaShinu-21/LeetCode/tree/main/2057-smallest-index-with-equal-value/) | Easy |
@@ -470,6 +471,7 @@
 | [0704-binary-search](https://github.com/SreyaShinu-21/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/SreyaShinu-21/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/SreyaShinu-21/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
