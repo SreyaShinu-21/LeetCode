@@ -114,6 +114,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/SreyaShinu-21/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/SreyaShinu-21/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1207-unique-number-of-occurrences](https://github.com/SreyaShinu-21/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/SreyaShinu-21/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -207,6 +208,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/SreyaShinu-21/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1046-last-stone-weight](https://github.com/SreyaShinu-21/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1089-duplicate-zeros](https://github.com/SreyaShinu-21/LeetCode/tree/main/1089-duplicate-zeros/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/SreyaShinu-21/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1470-shuffle-the-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1472-design-browser-history](https://github.com/SreyaShinu-21/LeetCode/tree/main/1472-design-browser-history/) | Medium |
