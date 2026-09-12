@@ -289,6 +289,7 @@
 | [0268-missing-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0319-bulb-switcher](https://github.com/SreyaShinu-21/LeetCode/tree/main/0319-bulb-switcher/) | Medium |
 | [0342-power-of-four](https://github.com/SreyaShinu-21/LeetCode/tree/main/0342-power-of-four/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/SreyaShinu-21/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/SreyaShinu-21/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/SreyaShinu-21/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/SreyaShinu-21/LeetCode/tree/main/0441-arranging-coins/) | Easy |
@@ -437,6 +438,7 @@
 | [0231-power-of-two](https://github.com/SreyaShinu-21/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/SreyaShinu-21/LeetCode/tree/main/0342-power-of-four/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/SreyaShinu-21/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
