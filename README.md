@@ -282,6 +282,7 @@
 | [0067-add-binary](https://github.com/SreyaShinu-21/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/SreyaShinu-21/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/SreyaShinu-21/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0089-gray-code](https://github.com/SreyaShinu-21/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0189-rotate-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/SreyaShinu-21/LeetCode/tree/main/0231-power-of-two/) | Easy |
@@ -342,6 +343,7 @@
 | [0051-n-queens](https://github.com/SreyaShinu-21/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/SreyaShinu-21/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0089-gray-code](https://github.com/SreyaShinu-21/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0140-word-break-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0140-word-break-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -434,6 +436,7 @@
 | ------- | ------- |
 | [0067-add-binary](https://github.com/SreyaShinu-21/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/SreyaShinu-21/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0089-gray-code](https://github.com/SreyaShinu-21/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0136-single-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/SreyaShinu-21/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/SreyaShinu-21/LeetCode/tree/main/0231-power-of-two/) | Easy |
