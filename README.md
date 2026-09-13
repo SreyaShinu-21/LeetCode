@@ -268,6 +268,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/SreyaShinu-21/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/SreyaShinu-21/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/SreyaShinu-21/LeetCode/tree/main/0207-course-schedule/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/SreyaShinu-21/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/SreyaShinu-21/LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/SreyaShinu-21/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Math
@@ -514,6 +515,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/SreyaShinu-21/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/SreyaShinu-21/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/SreyaShinu-21/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/SreyaShinu-21/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/SreyaShinu-21/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -527,6 +529,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/SreyaShinu-21/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/SreyaShinu-21/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/SreyaShinu-21/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/SreyaShinu-21/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/SreyaShinu-21/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -537,6 +540,7 @@
 | [0200-number-of-islands](https://github.com/SreyaShinu-21/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/SreyaShinu-21/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0322-coin-change](https://github.com/SreyaShinu-21/LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/SreyaShinu-21/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
