@@ -296,6 +296,7 @@
 | [0415-add-strings](https://github.com/SreyaShinu-21/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/SreyaShinu-21/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [0483-smallest-good-base](https://github.com/SreyaShinu-21/LeetCode/tree/main/0483-smallest-good-base/) | Hard |
+| [0504-base-7](https://github.com/SreyaShinu-21/LeetCode/tree/main/0504-base-7/) | Easy |
 | [0509-fibonacci-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/SreyaShinu-21/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
@@ -370,6 +371,7 @@
 | [0412-fizz-buzz](https://github.com/SreyaShinu-21/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/SreyaShinu-21/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0474-ones-and-zeroes](https://github.com/SreyaShinu-21/LeetCode/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0504-base-7](https://github.com/SreyaShinu-21/LeetCode/tree/main/0504-base-7/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0649-dota2-senate](https://github.com/SreyaShinu-21/LeetCode/tree/main/0649-dota2-senate/) | Medium |
