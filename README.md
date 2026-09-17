@@ -83,6 +83,7 @@
 | [0344-reverse-string](https://github.com/SreyaShinu-21/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/SreyaShinu-21/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/SreyaShinu-21/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0466-count-the-repetitions](https://github.com/SreyaShinu-21/LeetCode/tree/main/0466-count-the-repetitions/) | Hard |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/SreyaShinu-21/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -372,6 +373,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/SreyaShinu-21/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/SreyaShinu-21/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/SreyaShinu-21/LeetCode/tree/main/0415-add-strings/) | Easy |
+| [0466-count-the-repetitions](https://github.com/SreyaShinu-21/LeetCode/tree/main/0466-count-the-repetitions/) | Hard |
 | [0474-ones-and-zeroes](https://github.com/SreyaShinu-21/LeetCode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0504-base-7](https://github.com/SreyaShinu-21/LeetCode/tree/main/0504-base-7/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -404,6 +406,7 @@
 | [0322-coin-change](https://github.com/SreyaShinu-21/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0403-frog-jump](https://github.com/SreyaShinu-21/LeetCode/tree/main/0403-frog-jump/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/SreyaShinu-21/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0466-count-the-repetitions](https://github.com/SreyaShinu-21/LeetCode/tree/main/0466-count-the-repetitions/) | Hard |
 | [0474-ones-and-zeroes](https://github.com/SreyaShinu-21/LeetCode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0509-fibonacci-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
