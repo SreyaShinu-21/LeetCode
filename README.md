@@ -215,6 +215,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SreyaShinu-21/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SreyaShinu-21/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/SreyaShinu-21/LeetCode/tree/main/1909-remove-one-element-to-make-the-array-strictly-increasing/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2057-smallest-index-with-equal-value](https://github.com/SreyaShinu-21/LeetCode/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/SreyaShinu-21/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
