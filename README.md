@@ -301,6 +301,7 @@
 | [0509-fibonacci-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/SreyaShinu-21/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/SreyaShinu-21/LeetCode/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [3870-count-commas-in-range](https://github.com/SreyaShinu-21/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/SreyaShinu-21/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
