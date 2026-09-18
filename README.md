@@ -405,6 +405,7 @@
 | [0233-number-of-digit-one](https://github.com/SreyaShinu-21/LeetCode/tree/main/0233-number-of-digit-one/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/SreyaShinu-21/LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0397-integer-replacement](https://github.com/SreyaShinu-21/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 | [0403-frog-jump](https://github.com/SreyaShinu-21/LeetCode/tree/main/0403-frog-jump/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/SreyaShinu-21/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0466-count-the-repetitions](https://github.com/SreyaShinu-21/LeetCode/tree/main/0466-count-the-repetitions/) | Hard |
@@ -452,6 +453,7 @@
 | [0268-missing-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/SreyaShinu-21/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/SreyaShinu-21/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0397-integer-replacement](https://github.com/SreyaShinu-21/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -506,11 +508,13 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/SreyaShinu-21/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0140-word-break-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0140-word-break-ii/) | Hard |
+| [0397-integer-replacement](https://github.com/SreyaShinu-21/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 | [0509-fibonacci-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/SreyaShinu-21/LeetCode/tree/main/0055-jump-game/) | Medium |
+| [0397-integer-replacement](https://github.com/SreyaShinu-21/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/SreyaShinu-21/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/SreyaShinu-21/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0649-dota2-senate](https://github.com/SreyaShinu-21/LeetCode/tree/main/0649-dota2-senate/) | Medium |
