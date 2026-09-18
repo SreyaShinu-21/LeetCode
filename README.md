@@ -116,6 +116,7 @@
 | [0496-next-greater-element-i](https://github.com/SreyaShinu-21/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/SreyaShinu-21/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/SreyaShinu-21/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/SreyaShinu-21/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/SreyaShinu-21/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -221,6 +222,7 @@
 | [2057-smallest-index-with-equal-value](https://github.com/SreyaShinu-21/LeetCode/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/SreyaShinu-21/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/SreyaShinu-21/LeetCode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/SreyaShinu-21/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/SreyaShinu-21/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/SreyaShinu-21/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -325,6 +327,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SreyaShinu-21/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/SreyaShinu-21/LeetCode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/SreyaShinu-21/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
