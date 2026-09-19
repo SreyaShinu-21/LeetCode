@@ -118,6 +118,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/SreyaShinu-21/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/SreyaShinu-21/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/SreyaShinu-21/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3663-find-the-least-frequent-digit](https://github.com/SreyaShinu-21/LeetCode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,6 +225,7 @@
 | [2428-maximum-sum-of-an-hourglass](https://github.com/SreyaShinu-21/LeetCode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/SreyaShinu-21/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/SreyaShinu-21/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3663-find-the-least-frequent-digit](https://github.com/SreyaShinu-21/LeetCode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/SreyaShinu-21/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3912-valid-elements-in-an-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/3912-valid-elements-in-an-array/) | Easy |
@@ -306,6 +308,7 @@
 | [1250-check-if-it-is-a-good-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/SreyaShinu-21/LeetCode/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1641-count-sorted-vowel-strings](https://github.com/SreyaShinu-21/LeetCode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
+| [3663-find-the-least-frequent-digit](https://github.com/SreyaShinu-21/LeetCode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3870-count-commas-in-range](https://github.com/SreyaShinu-21/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/SreyaShinu-21/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -427,6 +430,7 @@
 | [0169-majority-element](https://github.com/SreyaShinu-21/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/SreyaShinu-21/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/SreyaShinu-21/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [3663-find-the-least-frequent-digit](https://github.com/SreyaShinu-21/LeetCode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3978-unique-middle-element](https://github.com/SreyaShinu-21/LeetCode/tree/main/3978-unique-middle-element/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
