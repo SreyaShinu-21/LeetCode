@@ -225,6 +225,7 @@
 | [2428-maximum-sum-of-an-hourglass](https://github.com/SreyaShinu-21/LeetCode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/SreyaShinu-21/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/SreyaShinu-21/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3524-find-x-value-of-array-i](https://github.com/SreyaShinu-21/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3663-find-the-least-frequent-digit](https://github.com/SreyaShinu-21/LeetCode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/SreyaShinu-21/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -308,6 +309,7 @@
 | [1250-check-if-it-is-a-good-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/SreyaShinu-21/LeetCode/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1641-count-sorted-vowel-strings](https://github.com/SreyaShinu-21/LeetCode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/SreyaShinu-21/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3663-find-the-least-frequent-digit](https://github.com/SreyaShinu-21/LeetCode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3870-count-commas-in-range](https://github.com/SreyaShinu-21/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -424,6 +426,7 @@
 | [1143-longest-common-subsequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SreyaShinu-21/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1641-count-sorted-vowel-strings](https://github.com/SreyaShinu-21/LeetCode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/SreyaShinu-21/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
