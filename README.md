@@ -164,6 +164,7 @@
 | [0088-merge-sorted-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SreyaShinu-21/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/SreyaShinu-21/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SreyaShinu-21/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/SreyaShinu-21/LeetCode/tree/main/0136-single-number/) | Easy |
@@ -406,6 +407,7 @@
 | [0072-edit-distance](https://github.com/SreyaShinu-21/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/SreyaShinu-21/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/SreyaShinu-21/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SreyaShinu-21/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SreyaShinu-21/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0140-word-break-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0140-word-break-ii/) | Hard |
