@@ -212,6 +212,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/SreyaShinu-21/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1046-last-stone-weight](https://github.com/SreyaShinu-21/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1089-duplicate-zeros](https://github.com/SreyaShinu-21/LeetCode/tree/main/1089-duplicate-zeros/) | Easy |
+| [1200-minimum-absolute-difference](https://github.com/SreyaShinu-21/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/SreyaShinu-21/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1470-shuffle-the-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
@@ -333,6 +334,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SreyaShinu-21/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/SreyaShinu-21/LeetCode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1200-minimum-absolute-difference](https://github.com/SreyaShinu-21/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/SreyaShinu-21/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
