@@ -394,6 +394,7 @@
 | [0680-valid-palindrome-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0917-reverse-only-letters](https://github.com/SreyaShinu-21/LeetCode/tree/main/0917-reverse-only-letters/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/SreyaShinu-21/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1446-consecutive-characters](https://github.com/SreyaShinu-21/LeetCode/tree/main/1446-consecutive-characters/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SreyaShinu-21/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
