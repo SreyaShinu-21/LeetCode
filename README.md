@@ -225,6 +225,7 @@
 | [2057-smallest-index-with-equal-value](https://github.com/SreyaShinu-21/LeetCode/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/SreyaShinu-21/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/SreyaShinu-21/LeetCode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
+| [2706-buy-two-chocolates](https://github.com/SreyaShinu-21/LeetCode/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/SreyaShinu-21/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/SreyaShinu-21/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/SreyaShinu-21/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -335,6 +336,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/SreyaShinu-21/LeetCode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/SreyaShinu-21/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/SreyaShinu-21/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [2706-buy-two-chocolates](https://github.com/SreyaShinu-21/LeetCode/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/SreyaShinu-21/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -534,6 +536,7 @@
 | [0455-assign-cookies](https://github.com/SreyaShinu-21/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0649-dota2-senate](https://github.com/SreyaShinu-21/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/SreyaShinu-21/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [2706-buy-two-chocolates](https://github.com/SreyaShinu-21/LeetCode/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
